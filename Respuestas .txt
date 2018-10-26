@@ -1,0 +1,14 @@
+1. Indicar el protocolo a utilizar 
+2. Permite acceder a los archivos del sistema
+3. un estantdar para definir el formato de un documento 
+4. variables req = request o peticiones,  res = respuesta
+5. Si, si el puerto esta ocupado
+6. Porque se utiliza para extraer datos
+7. Para buscar archivos
+8. Almacenar lo que tenga lo que tenga el archivo en el path
+9. si se envia un html se envia un archivo sin estilizar y si es css se envia el estilo del archivo
+10. Un paquete HTTP
+11. Porque varios de los parametro por ejemplo, como dui puede ser que sean caracteres y tenga que convertirlo a string para poder concatenarlo
+12. Si, porque solo se pediria el html por consecuensia quedaria solo texto sin estilo
+13. No, porque si se intenta hacer la conexion en una parte donde el servidor no este iniciado deberia dar error
+14. Para entender porque y como funcionan los complementos del mismo
